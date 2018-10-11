@@ -1,0 +1,6 @@
+ {
+    "usingComponents": {
+      "wxc-price": "/static/minui/wxc-price/dist/index"
+    }
+
+ }
